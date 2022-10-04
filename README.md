@@ -1,5 +1,5 @@
 # SuperPeachSisters
-Super Peach Sisters is a Super Mario Brothers clone I developed using C++ in my 1st year at UCLA in CS32.
+Super Peach Sisters is a Super Mario Brothers clone developed using C++ in my 1st year at UCLA in CS32.
 
 Download the following files and use Xcode or Visual Studio to run the game.
 
